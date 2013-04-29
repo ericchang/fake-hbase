@@ -1,0 +1,13 @@
+diff --git a/pom.xml b/pom.xml
+index e2d0e79..5f5e5c3 100644
+--- a/pom.xml
++++ b/pom.xml
+@@ -21,7 +21,7 @@
+ 
+   <groupId>org.kiji.testing</groupId>
+   <artifactId>fake-hbase</artifactId>
+-  <version>0.0.5</version>
++  <version>0.0.5-opower-1</version>
+   <packaging>jar</packaging>
+ 
+   <parent>
